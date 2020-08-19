@@ -25,7 +25,7 @@
 
 * Node.js суусан эсэхийг шалгахыг хүсвэл Command prompt-ыг онгойлгон **node -v** гэж бичин шалгах боломжтой.
 
-<img src="pic/node.png" alt="node" width="50%" height="140" style="margin-left:5%"/>
+<img src="pic/node.png" alt="node" width="50%" height="140" style="margin-left:10%"/>
 
 - Үүний дараа Command  prompt дээрээ **npm install -g @angular/cli** гэж бичин enter товчийг дарж Angular CLI суулгах процессыг эхлүүлнэ. 
 
@@ -35,7 +35,7 @@
 
 - _Angular CLI_ суусан эсэхийг шалгахыг хүсвэл Command prompt дээр **ng v** гэж бичин шалгах боломжтой.
 
-<img src="pic/cli.png" alt="Kitten" width="50%" height="300" style="margin-left:5%"/>
+<img src="pic/cli.png" alt="Kitten" width="50%" height="300" style="margin-left:10%"/>
 
  - Үүнээс гадна хөгжүүлэгчид бидэнд ямар project/кодчилол хөгжүүлэгч программ ашиглаж цаг хэмнэх болон илүү өргөн боломжуудыг ашиглах зэрэг нь чухал зүйлүүд билээ. Angular project хөгжүүлэхэд тохиромжтой программ бол **Visual Studio code** юм.
 
