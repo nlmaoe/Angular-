@@ -19,7 +19,7 @@
 
 ---
 
-## Angular CLI суулгах нь :
+## Angular CLI суулгах нь:
 
 - Хэрэв таны компьютерт **Node.js** суулгаагүй бол эндээс суулгана уу. [Link](https://nodejs.org/en/)
 
@@ -45,7 +45,7 @@
 
 ---
 
-## Angular CLI дээр project үүсгэх нь :
+## Angular CLI дээр project үүсгэх нь:
 
 - Эхлээд шинээр folder үүсгэнэ. Дараа нь vscode-ыг уншуулан тэрхүү folder-ыг онгойлгоно.
 
