@@ -25,7 +25,7 @@
 
 * Node.js суусан эсэхийг шалгахыг хүсвэл Command prompt-ыг онгойлгон **node -v** гэж бичин шалгах боломжтой.
 
-<img src="pic/node.png" alt="node" width="50%" height="140" style="margin-left:10%"/>
+<img src="pic/node.png" alt="node" width="50%" height="160" style="margin-left:10%"/>
 
 - Үүний дараа Command  prompt дээрээ **npm install -g @angular/cli** гэж бичин enter товчийг дарж Angular CLI суулгах процессыг эхлүүлнэ. 
 
