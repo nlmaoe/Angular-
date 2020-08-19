@@ -3,8 +3,8 @@
 ## Агуулга
 
 - [Angular гэж юу вэ?](#Angular-гэж-юу-вэ?)
-- [Angular CLI хэрхэн суулгах вэ?](#2.-Angular-CLI-суулгах-нь-:)
-- [Angular CLI дээр хэрхэн project үүсгэх вэ?](#3.-Angular-CLI-дээр-project-үүсгэх-нь-:)
+- [Angular CLI хэрхэн суулгах вэ?](#Angular-CLI-суулгах-нь)
+- [Angular CLI дээр хэрхэн project үүсгэх вэ?](#Angular-CLI-дээр-project-үүсгэх-нь)
 - [Angular архитектур болон бүтэц](#Angular-архитектур-болон-бүтэц)
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-## 2. Angular CLI суулгах нь :
+## Angular CLI суулгах нь
 
 - Хэрэв таны компьютерт **Node.js** суулгаагүй бол эндээс суулгана уу. [Link](https://nodejs.org/en/)
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 3. Angular CLI дээр project үүсгэх нь :
+## Angular CLI дээр project үүсгэх нь
 
 - Эхлээд шинээр folder үүсгэнэ. Дараа нь vscode-ыг уншуулан тэрхүү folder-ыг онгойлгоно.
 
