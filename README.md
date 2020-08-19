@@ -49,11 +49,11 @@
 
 - Эхлээд шинээр folder үүсгэнэ. Дараа нь vscode-ыг уншуулан тэрхүү folder-ыг онгойлгоно.
 
-<img src="pic/folder.png" alt="Kitten" width="60%" height="300" style="margin-left:5%"/>
+<img src="pic/folder.png" alt="folder" width="65%" height="350" style="margin-left:5%"/>
 
 - Үүний дараа vscode-ын terminal-ыг ажиллуулна.
 
-<img src="pic/ter.png" alt="Kitten" width="60%" height="300" style="margin-left:5%"/>
+<img src="pic/ter.png" alt="ter" width="65%" height="350" style="margin-left:5%"/>
 
 - Тerminal дээрээ **ng new** _project name_ гэж бичин project үүсгэнэ.
  
