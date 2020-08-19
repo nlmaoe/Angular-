@@ -53,7 +53,7 @@
 
 - Үүний дараа vscode-ын terminal-ыг ажиллуулна.
 
-<img src="pic/ter.png" alt="ter" width="65%" height="350" style="margin-left:5%"/>
+<img src="pic/ter.png" alt="ter" width="65%" height="320" style="margin-left:5%"/>
 
 - Тerminal дээрээ **ng new** _project name_ гэж бичин project үүсгэнэ.
  
