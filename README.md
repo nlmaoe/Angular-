@@ -2,14 +2,14 @@
 
 ## Агуулга
 
-- [Angular гэж юу вэ?](#Angular-гэж-юу-вэ?)
-- [Angular CLI хэрхэн суулгах вэ?](#2.-Angular-CLI-суулгах-нь:)
+- [Angular гэж юу вэ?](#1.-Angular-гэж-юу-вэ?)
+- [Angular CLI хэрхэн суулгах вэ?](#2.-Angular-CLI-суулгах-нь-:)
 - [Angular CLI дээр хэрхэн project үүсгэх вэ?](#3.-Angular-CLI-дээр-project-үүсгэх-нь-:)
 - [Angular архитектур болон бүтэц](#4.-Angular-архитектур-болон-бүтэц)
 
 ---
 
-## Angular гэж юу вэ?
+## 1. Angular гэж юу вэ?
 
 - Angular бол JavaScript фреймворк бөгөөд вэб аппликейшн бүтээхэд зориулагдсан.
 
