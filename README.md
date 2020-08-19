@@ -25,17 +25,17 @@
 
 * Node.js суусан эсэхийг шалгахыг хүсвэл Command prompt-ыг онгойлгон **node -v** гэж бичин шалгах боломжтой.
 
-![node](pic/node.png)
+<img src="pic/node.png" alt="node" width="50%" height="140" style="margin-left:5%"/>
 
 - Үүний дараа Command  prompt дээрээ **npm install -g @angular/cli** гэж бичин enter товчийг дарж Angular CLI суулгах процессыг эхлүүлнэ. 
 
-![npm-install](pic/npm.png)
+<img src="pic/npm.png" alt="npm" width="50%" height="230" style="margin-left:5%"/>
 
 >Дээрх коммандууд бүрэн ажиллаж дуусахад багагүй хугацаа шаардах тул тэвчээртэй хүлээх хэрэгтэй.
 
 - _Angular CLI_ суусан эсэхийг шалгахыг хүсвэл Command prompt дээр **ng v** гэж бичин шалгах боломжтой.
 
-![cli](pic/cli.png)
+<img src="pic/cli.png" alt="Kitten" width="50%" height="300" style="margin-left:5%"/>
 
  - Үүнээс гадна хөгжүүлэгчид бидэнд ямар project/кодчилол хөгжүүлэгч программ ашиглаж цаг хэмнэх болон илүү өргөн боломжуудыг ашиглах зэрэг нь чухал зүйлүүд билээ. Angular project хөгжүүлэхэд тохиромжтой программ бол **Visual Studio code** юм.
 
@@ -49,11 +49,11 @@
 
 - Эхлээд шинээр folder үүсгэнэ. Дараа нь vscode-ыг уншуулан тэрхүү folder-ыг онгойлгоно.
 
-![folder](pic/folder.png)
+<img src="pic/folder.png" alt="Kitten" width="60%" height="300" style="margin-left:5%"/>
 
 - Үүний дараа vscode-ын terminal-ыг ажиллуулна.
 
-![ter](pic/ter.png)
+<img src="pic/ter.png" alt="Kitten" width="60%" height="300" style="margin-left:5%"/>
 
 - Тerminal дээрээ **ng new** _project name_ гэж бичин project үүсгэнэ.
  
@@ -77,7 +77,7 @@
 
 - Ингэхдээ **metadata** дотор ямар нөхцөл байдалд юуг агуулж болох талаар тодорхойлж бичсэнээр Angular хэрхэн тухайн component классыг ажиллуулах тухайгаа мэдэж авдаг. 
 
-![comp](pic/com.png)
+<img src="pic/com.png" alt="Kitten" width="50%" height="300" style="margin-left:5%"/>
 
 - **Application logic** буюу программ хэрхэн ажиллах талаарх бүр нарийн логик дэс дарааг **service класс** дотор тусгаж тооцооллыг хийнэ. 
 
@@ -126,30 +126,3 @@ src/app/employees.component.html
 
 - Алхам алхмаар ахих түвшний хичээлүүдийг бүрэн судлаж мэдлэгээ зузаатгана уу.
 - Angular сурах хэцүү санагадаж байвал html , css , javascript-ын мэдлэгээ зузаатгаарай.
-
-<style>
-*{
-font-family: Arial, Helvetica, sans-serif;
-}
-ul{
-    font-size:15px;
-}
-center{
-    font-size:38px;
-    padding-bottom:20px;
-}
-p{
-    font-size:16px;
-}
-img{
-    display: block;
-    margin-left: 10%;
-    margin-right: auto;
-    margin-top:10px;
-    margin-bottom:20px;
-    width:60%;
-}
-h2{
-    margin:20px 0;
-}
-</style>
